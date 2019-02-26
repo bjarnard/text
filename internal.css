@@ -1,12 +1,11 @@
 <head>
 <style>
-body {
-  background-color: navy;
-}
+body 
 
 h1 {
   color: black;
   margin-left: 40px;
 } 
 </style>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
