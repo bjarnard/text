@@ -5,9 +5,9 @@
 <style>
 .tooltip {
   position: relative;
-  display: inline;
+  display: inline-block;
   border-bottom: 1px dotted black;
-  z-index: 0;
+  z-index: 1;
   margin-left: 40px;
 }
   }
@@ -15,7 +15,7 @@
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 120px;
-  direction: rtl
+  direction: ltr
   background-color: black;
   color: #fff;
   text-align: right;
@@ -24,7 +24,7 @@
   top: -100%;
   left: 50%;
   }
-
+  }
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
