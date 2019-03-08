@@ -13,17 +13,17 @@
     margin-bottom; 350px;
 }
 .tooltip {
-  position: relative;
-  display: inline;
+  position: absolute;
+  display: inline-block;
   border-bottom: 1px dotted black;
 }
 
 .tooltip .tooltiptext {
-  visibility: hidden;
+  visibility: visible;
   width: 285px;
   background-color: blue;
   color: black;
-  text-align: center;
+  text-align: right;
   border-radius: 6px;
   padding: 5px 0;
   
@@ -38,7 +38,8 @@
 }
 
 .tooltip:hover .tooltiptext {
-  visibility: visible;
+  visibility: hidden;
+  opacity: 0;
 }
 </style>
 <body style="text-align:center; direction:rtl;">
