@@ -90,6 +90,11 @@
   visibility: visible;
   opacity: 1.0;
 }
+
+.redText
+{
+    color: red;
+}
 </style>
   
 
