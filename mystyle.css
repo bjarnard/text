@@ -52,7 +52,7 @@
 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
 }
-.grid-container {
+.grid-container > div{
   display: grid;
   grid-template-columns: auto auto auto;
   background-color: #2196F3;
