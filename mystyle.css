@@ -52,7 +52,7 @@
 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
 }
-.grid-container > div{
+.grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
   background-color: #2196F3;
@@ -64,9 +64,6 @@
   padding: 20px;
   font-size: 30px;
   text-align: center;
-}
-.item2 {
-  grid-column: 2 / span 0.2;
 }
 
   .tooltip {
