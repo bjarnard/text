@@ -1,8 +1,10 @@
 <style> 
 
+body {margin:0;}
+
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: #333333;
   position: fixed;
   top: 0;
   width: 100%;
