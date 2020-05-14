@@ -4,6 +4,7 @@
 .header {
   background-color: #F1F1F1;
   text-align: center;
+  align-content: center;
   padding: 20px;
 }
 
