@@ -39,7 +39,7 @@ div.fixed {
   position: fixed;
   bottom: 0;
   right: 0;
-  top: 25%;
+  top: 75%;
   -ms-transform: translateY(-75%);
   transform: translateY(-75%);
 }
