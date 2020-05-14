@@ -35,6 +35,13 @@
   margin-top: 10px;
 }
 
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 10px;
+}
+
 /* Style The Dropdown Button */
 .dropbtn {
   background-color: #4CAF50;
