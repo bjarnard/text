@@ -15,7 +15,7 @@ body {margin:0;}
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 16px 16px;
   text-decoration: none;
   font-size: 17px;
 }
@@ -35,7 +35,7 @@ body {margin:0;}
   background-color: #4CAF50;
   color: white;
   padding: 14px;
-  font-size: 14px;
+  font-size: 16px;
   border: none;
   cursor: pointer;
   left: 0px; 
