@@ -39,9 +39,7 @@ div.fixed {
   position: fixed;
   bottom: 0;
   right: 0;
-  top: 75%;
-  -ms-transform: translateY(-75%);
-  transform: translateY(-75%);
+  top: 50%;
 }
 
 /* Style The Dropdown Button */
