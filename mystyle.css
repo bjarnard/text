@@ -2,6 +2,12 @@
 
 body {margin:0;}
 
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #333333;
