@@ -1,6 +1,6 @@
 function showHealingMatt12() {
 
-healingVersesMatt12 = 'test'; 
+var healingVersesMatt12 = 'test'; 
 
 document.getElementById("showspace").style.color = "white"; 
 
@@ -11,7 +11,7 @@ document.getElementById("showspace").innerHTML = healingVersesMatt12;
 }
 
 function showProphecyMatt12() {
-prophecyVersesMatt12 = "<div class="grid-container"><div class="grid-item">17 </div>
+var prophecyVersesMatt12 = "<div class="grid-container"><div class="grid-item">17 </div>
   <div class="grid-item">שיתקיים מה שנאמר על ידי ישעיהו הנביא האומר הן עבדי אתמך בו בחורי רצתה נפשי נתתי רוחי עליו משפט לגוים יוציא</div>
   <div class="grid-item">‘behold my servant. I will uphold him [who is] my chosen, the pleasure of my soul. I have put My Spirit upon him. He shall bring forth right-ruling to the nations. </div>
   <div class="grid-item">18 </div>
