@@ -1,16 +1,6 @@
 function showHealingMatt12() {
 
-healingVersesMatt12 = "<div class="grid-container"><div class="grid-item">and behold, a man whose hand was withered, and they asked him, saying, \“is it permissible to heal the sick on Shabbat?\” And this entire fabric[ated question] was simply [designed to give them a reason] to snitch on him to the Courthouse.</div>
-  <div class="grid-item">10 </div>
-  <div class="grid-item">והנה אדם שיבשה ידו וישאלו לו לאמר אם מותר בשבת לרפא לחולים וכל זה בד להלשינו לבית דין </div></div>
-<br><br>
- <div class="grid-container"><div class="grid-item">Then he said to [the] man, \“put forth your hand.\” And he put [it] forth and it was restored to health like the other one. </div>
-<div class="grid-item">13 </div>
-  <div class="grid-item">אז אמר לאדם נטה את ידך ויט ותשב לרפאות כמו השנית</div></div>
-<br><br>
-<div class="grid-item">Then drew near one mastered by demons, [who was] blind and deaf, and he healed him so that he was able to speak. </div>
-<div class="grid-container"><div class="grid-item">22 </div>
-  <div class="grid-item">אז הגש אליו בעל השד עור וחרש וירפא אותו כדי שיכול לדבר</div></div>"; 
+healingVersesMatt12 = 'test'; 
 
 document.getElementById("showspace").style.color = "white"; 
 
