@@ -1,4 +1,4 @@
-showHealingMatt12() {
+function showHealingMatt12() {
 
 healingVersesMatt12 = "<div class="grid-container"><div class="grid-item">and behold, a man whose hand was withered, and they asked him, saying, “is it permissible to heal the sick on Shabbat?” And this entire fabric[ated question] was simply [designed to give them a reason] to snitch on him to the Courthouse.</div>
   <div class="grid-item">10 </div>
@@ -20,7 +20,7 @@ document.getElementById("showspace").innerHTML = healingVersesMatt12;
 
 }
 
-showProphecyMatt12() {
+function showProphecyMatt12() {
 prophecyVersesMatt12 = "<div class="grid-container"><div class="grid-item">17 </div>
   <div class="grid-item">שיתקיים מה שנאמר על ידי ישעיהו הנביא האומר הן עבדי אתמך בו בחורי רצתה נפשי נתתי רוחי עליו משפט לגוים יוציא</div>
   <div class="grid-item">‘behold my servant. I will uphold him [who is] my chosen, the pleasure of my soul. I have put My Spirit upon him. He shall bring forth right-ruling to the nations. </div>
