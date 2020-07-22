@@ -1,7 +1,7 @@
 function showHealingMatt12() {
 
   var healingMatt12 = '10 and behold, a man whose hand was withered, and they asked him, saying, “is it permissible to heal the sick on Shabbat?” And this entire fabric[ated question] was simply [designed to give them a reason] to snitch on him to the Courthouse.' + '<br><br>' +
-  '13 Then he said to [the] man, “put forth your hand.” And he put [it] forth and it was restored to health like the other one.' + '<br><br>' + '22 Then drew near one mastered by demons, [who was] blind and deaf, and he healed him so that he was able to speak.'; 
+  '...<br><br>13 Then he said to [the] man, “put forth your hand.” And he put [it] forth and it was restored to health like the other one.' + '<br><br>' + '...<br><br>22 Then drew near one mastered by demons, [who was] blind and deaf, and he healed him so that he was able to speak.'; 
 
 document.getElementById("showspace").style.color = "white"; 
 document.getElementById("showspace").style.backgroundColor = "red";
@@ -11,7 +11,7 @@ document.getElementById("showspace").innerHTML = healingMatt12;
 
 function showProphecyMatt12() {
 
-  var prophecyMatt12 = '17 so that what was said at the hand of YeshiYahu the prophet would be established—the saying, <br><br> 18 ‘behold my servant. I will uphold him [who is] my chosen, the pleasure of my soul. I have put My Spirit upon him. He shall bring forth right-ruling to the nations.<br><br> 19 He shall not cry out, and neither will he lift up [a shout], nor make his voice heard in the street. <br><br> 20 He will not break a crushed reed, and will not extinguish a dim [wick of] flax until he place right-ruling in [the] land.<br><br>21 And the islands shall wait for his Torah.’ <br><br>';
+  var prophecyMatt12 = '17 so that what was said at the hand of YeshiYahu the prophet would be established—the saying, <br><br> 18 ‘behold my servant. I will uphold him [who is] my chosen, the pleasure of my soul. I have put My Spirit upon him. He shall bring forth right-ruling to the nations.<br><br> 19 He shall not cry out, and neither will he lift up [a shout], nor make his voice heard in the street. <br><br> 20 He will not break a crushed reed, and will not extinguish a dim [wick of] flax until he place right-ruling in [the] land.<br><br>21 And the islands shall wait for his Torah.’ <br><br>...<br><br> 39 And he answered and said to them, “a wicked and adulterous generation seeks a sign, and a sign will not be given to it, except [the] sign of Yonah the Prophet, <br><br> 40 for as Yonah was in the belly of of the fish three days and three nights, so will the Son of Man be in [the] heart of the earth three days and three nights. <br><br>41 And the men of Ninevah shall rise up in judgment with this very generation, and [show] it to be wicked, for they produced repentance at the declarations of Yonah, and behold, more than [a] Yonah [is] here. <br><br>42 The queen of the south shall rise up in judgement with this generation and [show] it to be wicked, for she came from the ends of the earth to hear the wisdom of Shlomo, and behold, more than [a] Shlomo [is] here.';
   document.getElementById("showspace").style.color = "white"; 
   document.getElementById("showspace").style.backgroundColor = "deeppink";
   
