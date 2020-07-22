@@ -27,7 +27,7 @@ function showWrongMatt12() {
 }
 
 function showTravelMatt12() {
- var travelMatt12 = '<span style="background-color: indigo; color: white;">1 At that time, Yeshua walked through grain on Shabbat, and his taught-ones were starving, and they began to pluck ears from the standing grain, and to eat [them].<br><br>...<br><br><15a And Yeshua knew, and turned from there</span>'  
+ var travelMatt12 = '<span style="background-color: indigo; color: white;">1 At that time, Yeshua walked through grain on Shabbat, and his taught-ones were starving, and they began to pluck ears from the standing grain, and to eat [them].<br><br>...<br><br><15a And Yeshua knew, and turned from there</span>';  
  document.getElementById("showspace").innerHTML = travelMatt12;
 }
 
