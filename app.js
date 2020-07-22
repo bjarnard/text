@@ -18,7 +18,7 @@ function showProphecyMatt12() {
   document.getElementById("showspace").innerHTML = prophecyMatt12;
   }
 
-function showWrong() {
+function showWrongMatt12() {
   var wrongMatt12 = '2 And the Prushim who saw said, “behold, your taught-ones are doing what is not permitted to do on Shabbat.”<br><br>...<br><br>14 And the Pirushim went forth and bore witness against him with the purpose of destroying him.<br><br>...<br><br>24 And the Prushim were listening {and the Purism/commentators rose up and heard} and they said, this [man] does not cast out demons except by Ba’al Zebub, {master} prince of the demons.”<br><br>...<br><br>38 Then some of the scribes and of the Prushim pressured him, saying, “our Rabbi, we want to behold a sign of yours.”'
     document.getElementById("showspace").style.color = "white"; 
   document.getElementById("showspace").style.backgroundColor = "green";
