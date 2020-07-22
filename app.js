@@ -42,7 +42,7 @@ document.getElementById("showspace").innerHTML = all;
 }
 function showParablesMatt12(){ 
 var parablesMatt12 = '<span style="background-color: blueviolet; color: black;">3 And he said to them, “Do ye not read that which David did when he was starving—he and those with him— 4 for he came into the house of Elohim and ate the Bread[s] of the Presence, those which were not allowed for him to eat, nor those with him, because [it is] for the Kohenim alone.5 Have ye not read in Torah that the Kohenim profane the Shabbat in the Temple and they are not guilty?6 So I say to ye, that [there is one] here greater than the Temple.7 And if ye knew what this [means], ‘loving-kindness have I delighted in, and not slaughter’ ye would not have condemned the innocent,<br><br>8 because son of the man is my foundation, and also [of] the Sabbath.”<br><br>...<br><br>26 And if Satan casts out the Satan, he is divided within himself. Then how does his kingdom stand?27 And me, if I cast out the demons by Ba’al Zebub, by whom [do] ye’s sons cast them out {ye’s sons, why can’t they cast them out [since they attempt to do the very thing you are accusing me of?]?. Therefore, they shall be your judges. 29 And how is a man able to come into the soldier’s home to spoil his weapons if he won’t first tie up the soldier? And then he will spoil his house.</span>';
-  document.getElementById("showspace").innerHTML = travelMatt12;
+  document.getElementById("showspace").innerHTML = parablesMatt12;
 }
 
 
