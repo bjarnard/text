@@ -26,8 +26,14 @@ function showWrongMatt12() {
   document.getElementById("showspace").innerHTML = wrongMatt12;
 }
 
+function showRightMatt12() {
+  var rightMatt12 = '<span style="background-color: lightblue; color: black;">5 Have ye not read in Torah that the Kohenim profane the Shabbat in the Temple and they are not guilty?<br><br>...<br><br>7 And if ye knew what this [means], ‘loving-kindness have I delighted in, and not slaughter’ ye would not have condemned the innocent, <br><br>8 because son of the man is my foundation, and also [of] the Sabbath.”<br><br>...<br><br>11 And he said to them, “who among ye, [being] a man that has one of sheep that falls in a pit on Shabbat, and will not take hold of her, and bring her up?<br><br>...<br><br>31 Therefore I say to ye, all sin and blasphemy will be forgiven man, but blasphemy of the Spirit will not be forgiven. <br><br>32 And every man that says a word against man it will be forgiven him, but whosoever speaks a word against the Holy Spirit will not be forgiven, not in this world or in the world to come.<br><br>...<br><br>34 Generation of vipers! How are ye able to speak good things when ye are evil? For from the abundance of the heart the mouth speaks.<br><br>...<br><br>36 And I say to ye, that every useless word {all words} that men speak, they will render the reason for it {be bound to give account} on the judgment day {the day of the Court}<br><br>37 for by your words you will be [considered] righteous and by your words you will be charged.”<br><br>...<br><br>48 And he answered, and he said to [he who was] speaking to him, “where is my mother, and who is my brother?”<br><br>49 And he stretched out his hand towards his disciples and said, “behold my mother and my brother
+</span>';
+  document.getElementById("showspace").innerHTML = rightMatt12;
+}
+
 function showTravelMatt12() {
- var travelMatt12 = '<span style="background-color: indigo; color: white;">1 At that time, Yeshua walked through grain on Shabbat, and his taught-ones were starving, and they began to pluck ears from the standing grain, and to eat [them].<br><br>...<br><br><15a And Yeshua knew, and turned from there</span>';  
+ var travelMatt12 = '<span style="background-color: indigo; color: white;">1 At that time, Yeshua walked through grain on Shabbat, and his taught-ones were starving, and they began to pluck ears from the standing grain, and to eat [them].<br><br>...<br><br>15a And Yeshua knew, and turned from there</span>';  
  document.getElementById("showspace").innerHTML = travelMatt12;
 }
 
