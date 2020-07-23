@@ -1,10 +1,6 @@
 function showHealingMatt12() {
 
-  var healingMatt12 = '10 and behold, a man whose hand was withered, and they asked him, saying, “is it permissible to heal the sick on Shabbat?” And this entire fabric[ated question] was simply [designed to give them a reason] to snitch on him to the Courthouse.' + '<br><br>' +
-  '...<br><br>13 Then he said to [the] man, “put forth your hand.” And he put [it] forth and it was restored to health like the other one.' + '<br><br>' + '...<br><br>22 Then drew near one mastered by demons, [who was] blind and deaf, and he healed him so that he was able to speak.'; 
-
-document.getElementById("showspace").style.color = "white"; 
-document.getElementById("showspace").style.backgroundColor = "red";
+  var healingMatt12 = '<span style="background-color: red; color: white;">10 and behold, a man whose hand was withered, and they asked him, saying, “is it permissible to heal the sick on Shabbat?” And this entire fabric[ated question] was simply [designed to give them a reason] to snitch on him to the Courthouse.<br><br>...<br><br>13 Then he said to [the] man, “put forth your hand.” And he put [it] forth and it was restored to health like the other one.<br><br>...<br><br>22 Then drew near one mastered by demons, [who was] blind and deaf, and he healed him so that he was able to speak.</span>'; 
 
 document.getElementById("showspace").innerHTML = healingMatt12;
 }
