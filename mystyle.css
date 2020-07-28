@@ -49,10 +49,11 @@ div.fixedleft {
 
 /* Style The Dropdown Button */
 .dropbtn {
-  background-color: #4CAF50;
+  background-color: #333333;
   color: white;
+  text-align: center; 
   padding: 10px;
-  font-size: 14px;
+  font-size: 17px;
   border: none;
   cursor: pointer;
   left: 0px; 
@@ -71,7 +72,7 @@ div.fixedleft {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: #333333;
   min-width: 160px;
   height: 300px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
