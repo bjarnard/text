@@ -6,7 +6,45 @@
   
 <head>
   <link rel="stylesheet" type="text/css" href="mystyle.css">
-  <style>   
+  <style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: #F48B74;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+  .tooltip {
+  position: relative;
+  display: inline-block; 
+  border-bottom: 1px dotted black;
+}
+  
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 200px;
+  background-color: purple;
+  color: white;
+  text-align: center;
+  
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 3;
+  top: 0%;
+  left: 0%;
+  right: 0%;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1.0;
+}
 </style>
   <title> Hebrew Matthew Ch.1</title>
 <body>
@@ -54,9 +92,10 @@
 תלדות 
 ישוע בן דוד בן אברהם 
     </div>
+	</div>
      <div class="grid-container">
     <div class="grid-item">These are the generations of Jesus the son of David the son of Abraham.</div>
 	  <div class="grid-item">1 פרק ראשון (first section)</div>
-<div class="grid-item">אלה תולדות יש״ו[ע] בן דוד בן אברהם</div>
+	     <div class="grid-item">אלה תולדות יש״ו[ע] בן דוד בן אברהם</div></div>
 </body>
 </html>
